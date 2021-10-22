@@ -2,7 +2,8 @@
 
 E-Commerce website using TypeScript and React as a framework. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![shopping-cart-ts](https://user-images.githubusercontent.com/66256483/138440412-63aa5f31-968d-4d31-9474-57829888241f.JPG)
 
 ## Available Scripts
 
